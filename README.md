@@ -1,2 +1,2 @@
 # openfoam_simulations
-You can get access to  some of my simulations in this repository
+You can get access to  some of my OpenFOAM simulations in this repository
